@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #1363C6;
-    --secondary: #15ACE1;
+    --primary: #e11515;
+    --secondary: #e11515;
     --light: #F4F7FE;
     --dark: #14183E;
 }
@@ -146,7 +146,7 @@ h6,
 /*** Hero Header ***/
 .hero-header {
     margin-top: -75px;
-    background: url(../img/bg-hero.png) center center no-repeat;
+    background: url(../img/bg-spiderman.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -289,14 +289,14 @@ h6,
 
 /*** Feature ***/
 .feature {
-    background: url(../img/bg-hero.png) center center no-repeat;
+    background: url(../img/bg-spiderman.png) center center no-repeat;
     background-size: cover;
 }
 
 
 /*** Newsletter ***/
 .newsletter {
-    background: url(../img/bg-hero.png) center center no-repeat;
+    background: url(../img/bg-spiderman.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -463,6 +463,7 @@ h6,
 }
 
 
+
 /*** Footer ***/
 .footer {
     background: url(../img/footer.png) center center no-repeat;
@@ -538,3 +539,4 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
